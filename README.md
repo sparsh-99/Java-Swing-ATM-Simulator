@@ -13,6 +13,16 @@ Java-Swing based ATM application
 
 
 ### Sample:-
+- #### Login
+![Screenshot (3)](https://user-images.githubusercontent.com/56729873/85330421-00feb800-b4f2-11ea-8e91-2d46bd977d5f.png)
+
+- #### Signup (Page-1)
+![Screenshot (4)](https://user-images.githubusercontent.com/56729873/85330429-052ad580-b4f2-11ea-9933-fad7f6951ab3.png)
+
+- #### Main page
+![Screenshot (5)](https://user-images.githubusercontent.com/56729873/85330435-078d2f80-b4f2-11ea-9aa5-d8ca9a271d94.png)
+
+
 
 
 
